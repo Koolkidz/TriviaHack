@@ -11,7 +11,7 @@
 
 Idea for 1:
 
-      1.    use http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html#createScreenCapture%28java.awt.Rectangle%29 to                 capture screenshot
+      1.    use http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html#createScreenCapture%28java.awt.Rectangle%29 to capture screenshot
       
       2.    Use http://asprise.com/royalty-free-library/java-ocr-api-overview.html OR other OCR API to render as text
       
