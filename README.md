@@ -1,5 +1,10 @@
 # TriviaHaX
 
+原諒我這一生不羈放縱愛自由
+也會怕有一天會跌倒
+背棄了理想　誰人都可以
+那會怕有一天只你共我
+
 @Facebook TriviaCrack App
 
 1.  Obtain Question  
